@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="Academico/src"/>
+	<classpathentry kind="src" path="hibernate-release-5.1.4.Final/project/documentation/src/main/asciidoc/quickstart/tutorials/annotations/src/test/java"/>
+	<classpathentry kind="src" path="hibernate-release-5.1.4.Final/project/documentation/src/main/asciidoc/quickstart/tutorials/basic/src/test/java"/>
+	<classpathentry kind="src" path="hibernate-release-5.1.4.Final/project/documentation/src/main/asciidoc/quickstart/tutorials/entitymanager/src/test/java"/>
+	<classpathentry kind="src" path="hibernate-release-5.1.4.Final/project/documentation/src/main/asciidoc/quickstart/tutorials/envers/src/test/java"/>
+	<classpathentry kind="src" path="hibernate-release-5.1.4.Final/project/documentation/src/main/asciidoc/quickstart/tutorials/osgi/managed-jpa/src/main/java"/>
+	<classpathentry kind="src" path="hibernate-release-5.1.4.Final/project/documentation/src/main/asciidoc/quickstart/tutorials/osgi/unmanaged-jpa/src/main/java"/>
+	<classpathentry kind="src" path="hibernate-release-5.1.4.Final/project/documentation/src/main/asciidoc/quickstart/tutorials/osgi/unmanaged-native/src/main/java"/>
+	<classpathentry kind="src" path="hibernate-release-5.1.4.Final/project/documentation/src/main/asciidoc/userguide/chapters/domain/extras/access"/>
+	<classpathentry kind="src" path="hibernate-release-5.1.4.Final/project/documentation/src/main/asciidoc/userguide/chapters/domain/extras/dynamic"/>
+	<classpathentry kind="src" path="hibernate-release-5.1.4.Final/project/documentation/src/main/asciidoc/userguide/chapters/domain/extras/embeddable"/>
+	<classpathentry kind="src" path="hibernate-release-5.1.4.Final/project/documentation/src/main/asciidoc/userguide/chapters/domain/extras/entity"/>
+	<classpathentry kind="src" path="hibernate-release-5.1.4.Final/project/documentation/src/main/asciidoc/userguide/chapters/domain/extras/id"/>
+	<classpathentry kind="src" path="hibernate-release-5.1.4.Final/project/documentation/src/main/asciidoc/userguide/chapters/domain/extras/natural_id"/>
+	<classpathentry kind="src" path="hibernate-release-5.1.4.Final/project/documentation/src/main/asciidoc/userguide/chapters/osgi/extras"/>
+	<classpathentry kind="src" path="hibernate-release-5.1.4.Final/project/documentation/src/main/docbook/devguide-old/en-US/chapters/events/extras"/>
+	<classpathentry kind="src" path="hibernate-release-5.1.4.Final/project/documentation/src/main/docbook/devguide-old/en-US/chapters/fetching/extras"/>
+	<classpathentry kind="src" path="hibernate-release-5.1.4.Final/project/documentation/src/main/docbook/devguide-old/en-US/chapters/pc/extras"/>
+	<classpathentry kind="src" path="hibernate-release-5.1.4.Final/project/documentation/src/main/docbook/devguide-old/en-US/chapters/query_criteria/extras"/>
+	<classpathentry kind="src" path="hibernate-release-5.1.4.Final/project/documentation/src/main/docbook/devguide-old/en-US/chapters/query_ql/extras"/>
+	<classpathentry kind="src" path="hibernate-release-5.1.4.Final/project/documentation/src/main/docbook/devguide-old/en-US/extras"/>
+	<classpathentry kind="src" path="hibernate-release-5.1.4.Final/project/documentation/src/main/docbook/integrationsGuide/en-US/chapters/services/extras/extend"/>
+	<classpathentry kind="src" path="hibernate-release-5.1.4.Final/project/documentation/src/main/docbook/integrationsGuide/en-US/chapters/services/extras/override"/>
+	<classpathentry kind="src" path="hibernate-release-5.1.4.Final/project/documentation/src/main/docbook/integrationsGuide/en-US/extras"/>
+	<classpathentry kind="src" path="hibernate-release-5.1.4.Final/project/documentation/src/main/docbook/mappingGuide/en-US/chapters/basic/extras"/>
+	<classpathentry kind="src" path="hibernate-release-5.1.4.Final/project/documentation/src/main/docbook/mappingGuide/en-US/chapters/categoizations/extras"/>
+	<classpathentry kind="src" path="hibernate-release-5.1.4.Final/project/documentation/src/main/docbook/mappingGuide/en-US/chapters/collection/extras"/>
+	<classpathentry kind="src" path="hibernate-release-5.1.4.Final/project/documentation/src/main/docbook/mappingGuide/en-US/chapters/composition/extras"/>
+	<classpathentry kind="src" path="hibernate-release-5.1.4.Final/project/documentation/src/main/docbook/mappingGuide/en-US/chapters/entity/extras"/>
+	<classpathentry kind="src" path="hibernate-release-5.1.4.Final/project/documentation/src/main/docbook/mappingGuide/en-US/chapters/id/extras"/>
+	<classpathentry kind="src" path="hibernate-release-5.1.4.Final/project/documentation/src/main/docbook/mappingGuide/en-US/chapters/natural_id/extras"/>
+	<classpathentry kind="src" path="hibernate-release-5.1.4.Final/project/documentation/src/main/docbook/userGuide/en-US/chapters/bootstrap/extras"/>
+	<classpathentry kind="src" path="hibernate-release-5.1.4.Final/project/documentation/src/main/docbook/userGuide/en-US/chapters/domain/extras"/>
+	<classpathentry kind="src" path="hibernate-release-5.1.4.Final/project/documentation/src/main/docbook/userGuide/en-US/chapters/enhancement/extras"/>
+	<classpathentry kind="src" path="hibernate-release-5.1.4.Final/project/documentation/src/main/docbook/userGuide/en-US/chapters/events/extras"/>
+	<classpathentry kind="src" path="hibernate-release-5.1.4.Final/project/documentation/src/main/docbook/userGuide/en-US/chapters/fetching/extras"/>
+	<classpathentry kind="src" path="hibernate-release-5.1.4.Final/project/documentation/src/main/docbook/userGuide/en-US/chapters/locking/extras"/>
+	<classpathentry kind="src" path="hibernate-release-5.1.4.Final/project/documentation/src/main/docbook/userGuide/en-US/chapters/osgi/extras"/>
+	<classpathentry kind="src" path="hibernate-release-5.1.4.Final/project/documentation/src/main/docbook/userGuide/en-US/chapters/pc/extras"/>
+	<classpathentry kind="src" path="hibernate-release-5.1.4.Final/project/documentation/src/main/docbook/userGuide/en-US/chapters/query-criteria/extras"/>
+	<classpathentry excluding="api/hibernate/|api/jpa/" kind="src" path="hibernate-release-5.1.4.Final/project/documentation/src/main/docbook/userGuide/en-US/chapters/query-hql/extras"/>
+	<classpathentry kind="src" path="hibernate-release-5.1.4.Final/project/documentation/src/main/docbook/userGuide/en-US/chapters/query-hql/extras/api/hibernate"/>
+	<classpathentry kind="src" path="hibernate-release-5.1.4.Final/project/documentation/src/main/docbook/userGuide/en-US/chapters/query-hql/extras/api/jpa"/>
+	<classpathentry kind="src" path="hibernate-release-5.1.4.Final/project/documentation/src/main/docbook/userGuide/en-US/chapters/transactions/extras"/>
+	<classpathentry kind="src" path="hibernate-release-5.1.4.Final/project/documentation/src/main/java"/>
+	<classpathentry kind="src" path="hibernate-release-5.1.4.Final/project/documentation/src/test/java"/>
+	<classpathentry kind="src" path="hibernate-release-5.1.4.Final/project/hibernate-c3p0/src/main/java"/>
+	<classpathentry kind="src" path="hibernate-release-5.1.4.Final/project/hibernate-c3p0/src/test/java"/>
+	<classpathentry kind="src" path="hibernate-release-5.1.4.Final/project/hibernate-core/src/main/java"/>
+	<classpathentry kind="src" path="hibernate-release-5.1.4.Final/project/hibernate-core/src/test/java"/>
+	<classpathentry kind="src" path="hibernate-release-5.1.4.Final/project/hibernate-ehcache/src/main/java"/>
+	<classpathentry kind="src" path="hibernate-release-5.1.4.Final/project/hibernate-ehcache/src/test/java"/>
+	<classpathentry kind="src" path="hibernate-release-5.1.4.Final/project/hibernate-entitymanager/src/main/java"/>
+	<classpathentry kind="src" path="hibernate-release-5.1.4.Final/project/hibernate-entitymanager/src/test/java"/>
+	<classpathentry kind="src" path="hibernate-release-5.1.4.Final/project/hibernate-envers/src/demo/java"/>
+	<classpathentry kind="src" path="hibernate-release-5.1.4.Final/project/hibernate-envers/src/main/java"/>
+	<classpathentry kind="src" path="hibernate-release-5.1.4.Final/project/hibernate-envers/src/test/java"/>
+	<classpathentry kind="src" path="hibernate-release-5.1.4.Final/project/hibernate-hikaricp/src/main/java"/>
+	<classpathentry kind="src" path="hibernate-release-5.1.4.Final/project/hibernate-hikaricp/src/test/java"/>
+	<classpathentry kind="src" path="hibernate-release-5.1.4.Final/project/hibernate-infinispan/src/main/java"/>
+	<classpathentry kind="src" path="hibernate-release-5.1.4.Final/project/hibernate-infinispan/src/test/java"/>
+	<classpathentry kind="src" path="hibernate-release-5.1.4.Final/project/hibernate-java8/src/main/java"/>
+	<classpathentry kind="src" path="hibernate-release-5.1.4.Final/project/hibernate-java8/src/test/java"/>
+	<classpathentry kind="src" path="hibernate-release-5.1.4.Final/project/hibernate-orm-modules/src/test/java"/>
+	<classpathentry kind="src" path="hibernate-release-5.1.4.Final/project/hibernate-osgi/src/main/java"/>
+	<classpathentry kind="src" path="hibernate-release-5.1.4.Final/project/hibernate-osgi/src/test/java"/>
+	<classpathentry kind="src" path="hibernate-release-5.1.4.Final/project/hibernate-proxool/src/main/java"/>
+	<classpathentry kind="src" path="hibernate-release-5.1.4.Final/project/hibernate-proxool/src/test/java"/>
+	<classpathentry kind="src" path="hibernate-release-5.1.4.Final/project/hibernate-spatial/src/main/java"/>
+	<classpathentry kind="src" path="hibernate-release-5.1.4.Final/project/hibernate-spatial/src/test/java"/>
+	<classpathentry kind="src" path="hibernate-release-5.1.4.Final/project/hibernate-testing/src/main/java"/>
+	<classpathentry kind="src" path="hibernate-release-5.1.4.Final/project/hibernate-testing/src/test/java"/>
+	<classpathentry kind="src" path="hibernate-release-5.1.4.Final/project/tooling/hibernate-enhance-maven-plugin/src/main/java"/>
+	<classpathentry kind="src" path="hibernate-release-5.1.4.Final/project/tooling/hibernate-gradle-plugin/src/main/groovy"/>
+	<classpathentry kind="src" path="hibernate-release-5.1.4.Final/project/tooling/metamodel-generator/src/main/java"/>
+	<classpathentry kind="src" path="hibernate-release-5.1.4.Final/project/tooling/metamodel-generator/src/test/java"/>
+	<classpathentry kind="src" path="IntroducaoJPA/src"/>
+	<classpathentry kind="src" path="mysql-connector-java-5.1.30/src"/>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
